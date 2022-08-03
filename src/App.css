@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 50vh;
+  width: 50%;
+
+}
+.leaflet-container {
+  height: 100%;
+  z-index: 2;
+}
